@@ -1,0 +1,6 @@
+-   id: prepare-commit-msg
+    name: Prepare commit msg
+    description: Prepare commit msg
+    entry: prepare-commit-msg
+    language: python
+    stages: [prepare-commit-msg]
